@@ -10,6 +10,6 @@ The fungal dataset comprised ten species: Aspergillus fumigatus (GCA_000002655.1
 The myxozoan dataset comprised seven species: Ceratomyxa sp. (GCA_040939075.1), Ceratonova shasta (GCA_918559645.1), Ellipsomyxa sp. (GCA_040938985.1), Henneguya salminicola (GCA_009887335.1), Myxobolus cerebralis (PRJNA182728), Myxobolus squamalis (GCA_010108815.2), and Sphaeromyxa zaharoni (GCA_001455285.1).
 
 
-To repeat the work analysis, use your own dataset, then adapt the file HGT_analysis_commands.sh and run it from the terminal in Linux, or use the file HGT_analysis.yml and run it after adaptation using Docker on any operating system.
+To repeat the work analysis, use your own dataset, then adapt the file HGT_analysis_commands.sh and run it from the terminal in Linux, or use the file HGT_environment.yml and run it after adaptation using Docker on any operating system.
 
 If you run this analysis, please cite: Ibrahim, A. G. A., & Adriano, E. A. (2026). Horizontal Gene Transfer Between Fungi and Myxozoa: An Evolutionary Perspective. https://doi.org/10.21203/rs.3.rs-9087283/v1
