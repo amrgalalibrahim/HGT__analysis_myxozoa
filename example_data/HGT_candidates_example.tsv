@@ -1,0 +1,8 @@
+candidate_id	scaffold	start	end	strand	gene_name	species
+CAZyme_Ceratomyxa	Cersp_scaf_0012	82301	84226	+	CAZyme_Ceratomyxa	Ceratomyxa_sp
+CAZyme_Ceratonova	CerSha_scaf_0019	54112	55032	-	CAZyme_Ceratonova	Ceratonova_shasta
+CAZyme_Ellipsomyxa	Ellsp_scaf_0041	121430	123916	+	CAZyme_Ellipsomyxa	Ellipsomyxa_sp
+CAZyme_Henneguya	HenSal_scaf_0007	31204	32388	+	CAZyme_Henneguya	Henneguya_salminicola
+CAZyme_Myxobolus	MyCer_scaf_0003	67810	69356	-	CAZyme_Myxobolus	Myxobolus_cerebralis
+CAZyme_Myxobolus_squamalis	MySqu_scaf_0021	88421	89919	+	CAZyme_Myxobolus_squamalis	Myxobolus_squamalis
+CAZyme_Sphaeromyxa	SphZah_scaf_0008	73341	75730	+	CAZyme_Sphaeromyxa	Sphaeromyxa_zaharoni

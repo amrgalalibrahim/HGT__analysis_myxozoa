@@ -1,0 +1,9 @@
+sample	condition	developmental_stage	bioreplicate	species	reference_genome
+SRR1557039	infection	sporulation	1	Myxobolus_cerebralis	GCA_000827895.1
+SRR7754566	infection	proliferative	1	Henneguya_salminicola	GCA_009887335.1
+SRR1575205	infection	sporulation	1	Ceratonova_shasta	GCA_003969625.1
+SRR6782113	infection	sporulation	2	Ceratonova_shasta	GCA_003969625.1
+SRR1573049	infection	sporulation	3	Ceratonova_shasta	GCA_003969625.1
+SRR1205836	control	uninfected	1	Ceratonova_shasta	GCA_003969625.1
+SRR7760054	infection	mix	1	Myxobolus_squamalis	GCA_010108815.2
+SRR2034724	infection	sporulation	1	Sphaeromyxa_zaharoni	GCA_001455285.1

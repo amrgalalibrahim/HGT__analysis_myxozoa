@@ -1,0 +1,8 @@
+sample_id	genome_fasta	candidates_tsv
+Ceratomyxa_sp	../genomes/myxozoa/Ceratomyxa_sp.fasta	../results/HGT_candidates_Ceratomyxa.tsv
+Henneguya_salminicola	../genomes/myxozoa/Henneguya_salminicola.fasta	../results/HGT_candidates_Henneguya.tsv
+Myxobolus_cerebralis	../genomes/myxozoa/Myxobolus_cerebralis.fasta	../results/HGT_candidates_Myxobolus.tsv
+Ceratonova_shasta	../genomes/myxozoa/Ceratonova_shasta.fasta	../results/HGT_candidates_Ceratonova.tsv
+Myxobolus_squamalis	../genomes/myxozoa/Myxobolus_squamalis.fasta	../results/HGT_candidates_Myxobolus_squamalis.tsv
+Sphaeromyxa_zaharoni	../genomes/myxozoa/Sphaeromyxa_zaharoni.fasta	../results/HGT_candidates_Sphaeromyxa.tsv
+Ellipsomyxa_sp	../genomes/myxozoa/Ellipsomyxa_sp.fasta	../results/HGT_candidates_Ellipsomyxa.tsv
